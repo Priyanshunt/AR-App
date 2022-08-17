@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Neon" size="0.150000 0.150000" />
+    <ImageTarget name="Fluorine" size="0.150000 0.150000" />
+    <ImageTarget name="Oxygen" size="0.150000 0.150000" />
+    <ImageTarget name="Nitrogen" size="0.150000 0.150000" />
+    <ImageTarget name="Carbon" size="0.150000 0.150000" />
+    <ImageTarget name="Boron" size="0.150000 0.150000" />
+    <ImageTarget name="Beryllium" size="0.150000 0.150000" />
+    <ImageTarget name="Helium" size="0.150000 0.150000" />
+    <ImageTarget name="Lithium" size="0.150000 0.150000" />
+    <ImageTarget name="Hydrogen" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
